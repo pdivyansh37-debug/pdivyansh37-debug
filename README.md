@@ -1,15 +1,21 @@
 <div align="center">
 
 <!-- HEADER BANNER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30&height=230&section=header&text=Hi%2C%20I'm%20Divyansh%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20%7C%20Hardware%20%26%20Software%20Synergy&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<a href="https://github.com/pdivyansh37-debug">
+  <img src="https://raw.githubusercontent.com/pdivyansh37-debug/pdivyansh37-debug/main/assets/header.svg" width="100%" alt="Divyansh - ECE Hardware & Software Engineer" />
+</a>
+
+<br/>
 
 <!-- TYPING SVG ANIMATION -->
 <a href="https://github.com/pdivyansh37-debug">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=620&height=50&lines=ECE+Undergrad+%40+Silicon+%26+Software+Crossroads;Robotics%2C+PID+Control+%26+Embedded+Systems;Real-Time+Computer+Vision+%26+AI+Biomechanics;High-Performance+C%2B%2B+%26+Python+Systems;Building+Autonomous+Bots+%26+Intelligent+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=620&height=45&lines=ECE+Undergrad+%40+Silicon+%26+Software+Crossroads;Robotics%2C+PID+Control+%26+Embedded+Systems;Real-Time+Computer+Vision+%26+AI+Biomechanics;High-Performance+C%2B%2B+%26+Python+Systems;Building+Autonomous+Bots+%26+Intelligent+Web+Apps" alt="Typing SVG" />
 </a>
 
+<br/>
+
 <p align="center">
-  <a href="#-hardware--robotics-engineering"><img src="https://img.shields.io/badge/Domain-Hardware%20%26%20Embedded-00f0ff?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware" /></a>
+  <a href="#-hardware-robotics--embedded-systems"><img src="https://img.shields.io/badge/Domain-Hardware%20%26%20Embedded-00f0ff?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware" /></a>
   <a href="#-software-ai--systems-engineering"><img src="https://img.shields.io/badge/Domain-Software%20%26%20AI%20Systems-a855f7?style=for-the-badge&logo=python&logoColor=white" alt="Software" /></a>
   <a href="https://github.com/pdivyansh37-debug?tab=repositories"><img src="https://img.shields.io/badge/Repositories-9%20Active%20Projects-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
 </p>
@@ -291,6 +297,6 @@ I am an **ECE undergraduate engineer** operating at the dynamic intersection of 
 </p>
 
 <!-- FOOTER WAVE ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://raw.githubusercontent.com/pdivyansh37-debug/pdivyansh37-debug/main/assets/footer.svg" width="100%" alt="Footer Wave" />
 
 </div>
