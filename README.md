@@ -18,6 +18,7 @@
   <a href="#-hardware-robotics--embedded-systems"><img src="https://img.shields.io/badge/Domain-Hardware%20%26%20Embedded-00f0ff?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware" /></a>
   <a href="#-software-ai--systems-engineering"><img src="https://img.shields.io/badge/Domain-Software%20%26%20AI%20Systems-a855f7?style=for-the-badge&logo=python&logoColor=white" alt="Software" /></a>
   <a href="https://github.com/pdivyansh37-debug?tab=repositories"><img src="https://img.shields.io/badge/Repositories-9%20Active%20Projects-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+  <a href="https://github.com/pdivyansh37-debug/pdivyansh37-debug/blob/main/assets/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-View%20CV%20📄-f59e0b?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
 </p>
 
 </div>
@@ -291,9 +292,10 @@ I am an **ECE undergraduate engineer** operating at the dynamic intersection of 
 <div align="center">
 
 <p align="center">
+  <a href="https://github.com/pdivyansh37-debug/pdivyansh37-debug/blob/main/assets/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download_CV-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="https://github.com/pdivyansh37-debug"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:divyansh.p37@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pdivyansh37@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/p-divyansh-732760374/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!-- FOOTER WAVE ANIMATION -->
