@@ -244,17 +244,7 @@ I am an **ECE undergraduate engineer** operating at the dynamic intersection of 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdivyansh37-debug&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a855f7&currStreakNum=00f0ff" alt="Divyansh's Streak Stats" />
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdivyansh37-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages" />
-    </td>
-  </tr>
 </table>
-
-<!-- GITHUB TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pdivyansh37-debug&theme=flat&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
-</p>
 
 </div>
 
