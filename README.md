@@ -238,7 +238,7 @@ I am an **ECE undergraduate engineer** operating at the dynamic intersection of 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pdivyansh37-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=a855f7&text_color=c9d1d9" alt="Divyansh's GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=pdivyansh37-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=a855f7&text_color=c9d1d9" alt="Divyansh's GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdivyansh37-debug&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a855f7&currStreakNum=00f0ff" alt="Divyansh's Streak Stats" />
